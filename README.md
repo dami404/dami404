@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me:  [telegram](https://t.me/ddmmitrii) | [email](d.emelianoff@gmail.com)
 
-
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
