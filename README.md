@@ -26,5 +26,3 @@ Here are some ideas to get you started:
 - 👯 Был бы рад вместе поучаствовать в open-source проектах и хакатонах
 
 - 📫 Как связаться со мной:  [telegram](https://t.me/ddmmitrii) | [email](d.emelianoff@gmail.com)
-
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
