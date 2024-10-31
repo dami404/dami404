@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Dmitry
+<h1 align="center">Дмитрий Емельянов!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software Engineering student from Russia 🇷🇺</h3>
+<h3 align="center">Software Engineer из России 🇷🇺</h3>
 
-- 🔭 I'm interested in Golang, PHP, Python
+- 🔭 Заинтересован в Golang, PHP, Python
 
-- 🌱 I’m currently learning Golang
+- 🌱 Сейчас изучаю Golang
 
-- 📚 I’m currently studying at ITMO University
+- 📚 Учусь в университете ИТМО
 
-- 👯 I’m looking to collaborate on open-source projects / hackathons
+- 👯 Был бы рад вместе поучаствовать в open-source проектах и хакатонах
 
-- 📫 How to reach me:  [telegram](https://t.me/ddmmitrii) | [email](d.emelianoff@gmail.com)
+- 📫 Как связаться со мной:  [telegram](https://t.me/ddmmitrii) | [email](d.emelianoff@gmail.com)
 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
