@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - Bachelor of Software Engineering in [ITMO University ](https://itmo.ru/)
 
 ## 👩‍💻 Work experience
-[![Static Badge](https://img.shields.io/badge/CV-green?style=for-the-badge&logoSize=20)](./obsidian_vault/blob/main/CV/)
+[![Static Badge](https://img.shields.io/badge/CV-green?style=for-the-badge&logoSize=20)](../obsidian_vault/blob/main/CV/)
 
 
 ## 🔭 Interested in
