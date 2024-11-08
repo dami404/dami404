@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 2022 - 2024 : Backend developer (PHP, Bitrix)
 
 
-   [![Static Badge](https://img.shields.io/badge/CV%20(RU)-blue?style=for-the-badge&logoSize=20)](https://github.com/dami404/obsidian_vault/blob/main/CV/%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.pdf)
+   [![Static Badge](https://img.shields.io/badge/CV%20(RU)-blue?style=for-the-badge&logoSize=20)](https://github.com/dami404/dami404/blob/main/CVs/%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.pdf)
   [![Static Badge](https://img.shields.io/badge/CV%20(EN)-red?style=for-the-badge&logoSize=20)](https://github.com/dami404/obsidian_vault/blob/main/CV/%D0%95%D0%BC%D0%B5%D0%BB%D1%8C%D1%8F%D0%BD%D0%BE%D0%B2%20%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9%20%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87.pdf)
 ## 🔭 Interested in
 
