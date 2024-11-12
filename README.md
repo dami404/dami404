@@ -67,7 +67,6 @@ Here are some ideas to get you started:
 ## 💁🏻‍♂️ About me
 - 🐺⚔️ Fond of The Witcher saga 
 - 🏋️‍♂️ Gym 2 times a week
-- 🧄 Fav food - khinkali
 
 ## 📫 How to reach me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ddmmitrii) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](d.emelianoff@gmail.com)
